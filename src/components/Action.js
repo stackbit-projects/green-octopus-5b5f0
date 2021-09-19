@@ -6,7 +6,7 @@ import {Link, withPrefix, classNames} from '../utils';
 export default class Action extends React.Component {
     render() {
         // test
-        // test2
+        // test
         let action = _.get(this.props, 'action', null);
         return (
             <Link to={withPrefix(_.get(action, 'url', null))}
