@@ -5,6 +5,7 @@ import Action from './Action';
 import {htmlToReact} from '../utils';
 
 export default class Footer extends React.Component {
+    
     render() {
         return (
             <footer className="site-footer">
