@@ -6,7 +6,7 @@ import {htmlToReact} from '../utils';
 
 export default class Footer extends React.Component {
     render() {
-        
+        // test
         return (
             <footer className="site-footer">
               <div className="container container--lg">
