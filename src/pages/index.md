@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Welcome to our site
     subtitle: >-
-      Lorem ipsumdolor sitamet, consec teturadipiscing elit. Nullam a metus quis
-      lorem malesuada luctus.
+      Lorem ipsumdolor sitamet, caaonsec teturadipiscing elit. Nullam a metus
+      quis lorem malesuada luctus.
     actions:
       - label: Learn More
         url: /features
