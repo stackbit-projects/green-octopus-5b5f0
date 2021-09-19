@@ -7,6 +7,7 @@ import BlogPostFeedItem from './BlogPostFeedItem';
 export default class BlogFeedItemFilter extends React.Component {
     render() {
         // test
+        // test
         let post = _.get(this.props, 'post_page', null);
         let section = _.get(this.props, 'blog_feed_section', null);
         let section_author = _.get(this.props, 'section_author', null);
