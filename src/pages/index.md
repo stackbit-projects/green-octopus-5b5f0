@@ -71,7 +71,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Feature
         content: >-
           ## Lorem ipsum
 
