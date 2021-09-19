@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to our site
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      Lorem ipsumdolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
