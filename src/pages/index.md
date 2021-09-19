@@ -29,7 +29,7 @@ sections:
     features:
       - title: Feature 1
         content: >-
-          Loremipsumdolor sit amet, consectetur adipiscing elit. Donec nisl
+          Loremipsumdolor sit_amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
